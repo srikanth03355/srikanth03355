@@ -20,5 +20,5 @@ I'm **Srikanth Polaboina**
 
 ## 🔗 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/srikanth-polaboina-451810259/)
-- [Twitter](https://github.com/srikanth03355)
+- [Github](https://github.com/srikanth03355)
 
