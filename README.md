@@ -19,6 +19,6 @@ I'm **Srikanth Polaboina**
 ![Srikanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourUsername&show_icons=true&theme=radical)
 
 ## 🔗 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/yourLinkedInProfile)
-- [Twitter](https://twitter.com/yourTwitterHandle)
+- [LinkedIn](https://www.linkedin.com/in/srikanth-polaboina-451810259/)
+- [Twitter](https://github.com/srikanth03355)
 
