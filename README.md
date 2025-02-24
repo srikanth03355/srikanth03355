@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋  
+I'm **Srikanth Polaboina**  
 
-<!--
-**srikanth03355/srikanth03355** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student at **Guru Nanak Institute of Technology, Hyderabad**  
+💻 Skilled in **Data Structures & Algorithms, SQL, Web Development**  
+🤖 Currently exploring **Machine Learning** with projects like:  
+  - **Used Car Price Prediction**  
+  - **Donation and Request Platform**  
 
-Here are some ideas to get you started:
+## 💼 Projects and Work
+- 🚗 **Used Car Price Prediction** – An ML model to estimate the prices of used cars.  
+- 🎁 **Donation and Request Site** – A platform to facilitate donations and requests.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Learning & Growing
+- Diving deeper into **Machine Learning** and **Web Development**.  
+- Experimenting with new frameworks and tools.  
+
+## 📈 GitHub Stats
+![Srikanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourUsername&show_icons=true&theme=radical)
+
+## 🔗 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/yourLinkedInProfile)
+- [Twitter](https://twitter.com/yourTwitterHandle)
+
